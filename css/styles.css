@@ -2,11 +2,16 @@ header {
     background-color: #000000;
 }
 
-header a {
+header nav a {
     color:white ;
 }
 
 #button-primary {
     background-color: red;
+    color: #ffffff;
+}
+
+.item-nav {
+    background-color: green;
     color: #ffffff;
 }
